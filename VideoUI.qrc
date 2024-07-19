@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>Resources/beforeVideo.png</file>
+    <file>Resources/closeAudio.png</file>
+    <file>Resources/nextVideo.png</file>
+    <file>Resources/pause.png</file>
+    <file>Resources/play.png</file>
+  </qresource>
+</RCC>
